@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\bin\Debug\Bus Ticket Booking System.exe.config
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\bin\Debug\Bus Ticket Booking System.exe
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\bin\Debug\Bus Ticket Booking System.pdb
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus Ticket Booking System.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus Ticket Booking System.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus_Ticket_Booking_System.Login.resources
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus_Ticket_Booking_System.Properties.Resources.resources
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus Ticket Booking System.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus Ticket Booking System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus Ticket Booking System.exe
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus Ticket Booking System.pdb
+C:\Users\DELL\Desktop\Bus Ticket Booking System\Bus Ticket Booking System\obj\Debug\Bus_Ticket_Booking_System.SignUp.resources
